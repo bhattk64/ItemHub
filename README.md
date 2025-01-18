@@ -12,9 +12,9 @@
 - **Edit/Delete Items**: Update stock levels or remove items from the list.
 
 ## Screenshots
-![Dash Board](![alt text](image.png))
-![Low Stock](![alt text](image-1.png))
-![Create Item](![alt text](image-2.png))
+![Dash Board](![alt text](./image.png))
+![Low Stock](![alt text](./image-1.png))
+![Create Item](![alt text](./image-2.png))
 
 ## Technologies Used
 - **React Native**
@@ -27,5 +27,5 @@
 2.Navigate to the project directory:cd ItemHub
 3.Install dependencies:npm install
 4.Run the app:npx react-native run-android (Ensure you have an emulator running or a physical device connected.)
-5.
+
 
